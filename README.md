@@ -1,2 +1,2 @@
 # Risk_Return_Analysis
-Analysis of the risk and return of various retirement portfolios. 
+Analysis of Risk and Return for potential retirement portfolios.
